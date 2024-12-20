@@ -1,3 +1,29 @@
+/*
+
+Task 4: Spiral Traversal of a Matrix
+Write a program to traverse a matrix in spiral order. The program should accept the dimensions and
+elements of the matrix as input and then display the spiral traversal.
+Example Input:
+Enter rows and columns of matrix: 3 3
+Enter elements of the matrix:
+1 2 3
+4 5 6
+7 8 9
+Example Output:
+Spiral Traversal: 1 2 3 6 9 8 7 4 5
+
+
+
+*/
+/*
+
+Nichita Selchin , Student No : sba24331
+
+Repository link : https://github.com/Nichita777/Task4
+
+*/
+
+
 package com.mycompany.task4;
 import java.util.Scanner;
 
